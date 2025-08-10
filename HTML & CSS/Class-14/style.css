@@ -1,0 +1,52 @@
+/* h1 {
+
+    font-family: "Roboto", sans-serif;
+}
+#para{
+
+  font-family: "Roboto", sans-serif;
+
+
+} */
+
+ @font-face {
+    font-family: 'Playwrite';
+    src: url(./font/static/PlaywriteAUQLD-Regular.ttf);
+}
+
+
+/*
+h1{
+    font-family: 'Playwrite';
+}
+
+#para{
+    font-family: 'Playwrite';
+} */
+
+
+/* h1{
+
+    font-size: 100px;
+} */
+
+/* 
+p{
+    font-size: 265%;
+} */
+
+
+
+/* p{
+    font-size: 2em;
+} */
+
+
+p{
+    /* font-family: 'Playwrite'; */
+    /* font-weight: bold; */
+    /* font-weight: normal; */
+    /* font-weight: bolder; */
+    /* font-weight: 100; */
+    /* font-weight: 900; */
+}
