@@ -42,11 +42,68 @@ p{
 } */
 
 
-p{
-    /* font-family: 'Playwrite'; */
-    /* font-weight: bold; */
-    /* font-weight: normal; */
-    /* font-weight: bolder; */
-    /* font-weight: 100; */
-    /* font-weight: 900; */
+/* p{
+    font-family: 'Playwrite';
+    font-weight: bold;
+    font-weight: normal;
+    font-weight: bolder;
+    font-weight: 100;
+    font-weight: 900;
+} */
+
+
+/* #para{
+
+    font-style: italic;
+    font-style: oblique;
+    font-style: normal;
+} */
+
+/* #para {
+
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: none;
+} */
+
+/* #para {
+
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
 }
+
+a{
+    text-decoration: none;
+} */
+
+
+/* #para{
+
+    line-height: 10px;
+    line-height: 0px;
+    line-height: 20px;
+    line-height: 30px;
+    line-height: 100px;
+} */
+
+
+/* #para{
+
+    letter-spacing: 30px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    word-spacing: 70px;
+} */
+
+/* #para{
+
+    text-align: center;
+    text-align: justify;
+    text-align: right;
+    text-align: left;
+}  */
+
+
+
