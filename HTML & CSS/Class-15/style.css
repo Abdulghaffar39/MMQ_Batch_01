@@ -1,0 +1,66 @@
+h1{
+    color: orange;
+}
+
+/* a:link{
+
+    color: green;
+    text-decoration: none;
+} */
+
+
+/* a:visited {
+
+    color: yellow;
+} */
+
+/* a:focus {
+
+   color: yellow;
+   font-size: 50px;
+} */
+
+/* a:active {
+
+    color: yellow;
+    font-size: 40px;
+} */
+
+/* a:hover{
+
+    font-size: 15px;
+    color: red;
+    border: 1px solid black;
+    text-decoration: none;
+} */
+
+/* .para{
+
+    font-size: 25px;
+    color: white;
+    background-color: orange;
+
+    width: 600px;
+    width: 50%;
+    width: 120%;
+    width: 120vw;
+} */
+
+/* .box{
+
+    border: 2px solid blue;
+    width: 40%;
+    height: 500px;
+} */
+
+/* .child_box{
+
+    border: 2px solid black;
+
+    width: 50%;
+    width: 50vw;
+    height: 100%;
+    height: 100vh;
+} */
+
+
