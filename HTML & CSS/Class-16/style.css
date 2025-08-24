@@ -1,0 +1,35 @@
+ /* div{
+
+    height: 50px; 
+    min-height: 20px;
+    max-width: 500px;
+    border: 2px solid black;
+}  */
+
+/* div{
+
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    overflow: scroll    ;
+    border: 2px solid black;
+} */
+
+/* div{
+
+    padding: 20px;
+    border: 2px solid black;
+} */
+
+.div1{
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.div2{
+
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
