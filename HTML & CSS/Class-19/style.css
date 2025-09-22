@@ -1,0 +1,52 @@
+.ul1{
+
+    font-size: 20px;
+    list-style-position: inside;
+}
+
+.ul2{
+
+    font-size: 20px;
+    list-style-position: outside;
+}
+
+.ul3{
+
+    font-size: 20px;
+    list-style: inside circle;
+    list-style: outside circle;
+}
+
+td{
+
+    padding:  5px 20px;
+    font-size: 25px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid black;
+}
+
+input{
+
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 20px;
+    background-color: black;
+    cursor: pointer;
+    cursor: wait;
+    cursor: help;
+    cursor:  text;
+    cursor:  crosshair;
+    
+}
+
+input:hover{
+
+    font-size: 24px;
+    transition: all 0.8s;
+    background-color: gray;
+    color: black;
+
+}
