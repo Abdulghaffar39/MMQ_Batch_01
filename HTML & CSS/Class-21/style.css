@@ -1,0 +1,79 @@
+/* *{
+
+    border: 1px solid red;
+} */
+
+/* body{
+    background-image: url(https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1nfGVufDB8fDB8fHww);
+    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-repeat: repeat;
+} */
+
+/* 
+.image_1{
+
+    width: 500px;
+    height: 800px;
+}
+
+.image_2{
+
+    width: 300px;
+}
+
+.image_3{
+
+    width: 150px;
+} */
+
+
+/* .image_4{
+
+    display: block;
+    margin: 0 auto;
+} */
+
+/* div{
+    color: black;
+    width: 100%;
+    height: 100vh;
+    background-color: lightgreen;
+} */
+
+/* .bg_Img{
+
+    background-image: url(./imges/download.png);
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-attachment: scroll; 
+    background-position: center; 
+    background-position: left top; 
+    background-position: left center; 
+    background-position: left bottom; 
+    background-position: right top; 
+    background-position: right center; 
+    background-position: right bottom; 
+
+
+    background: transparent url(./imges/download.png) no-repeat top center;
+} */
+
+
+div {
+
+    width: 150px;
+    height: 25px;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+
+button{
+
+    background-color: transparent;
+    border: none;
+}
