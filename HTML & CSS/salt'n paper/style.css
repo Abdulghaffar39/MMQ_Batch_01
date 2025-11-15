@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid gray; */
+}
+
+body{
+
+    font-family: "inter";
+    background-color: black;
+    color: white;
+}
+
+@font-face {
+    font-family: "inter";
+    src: url(./assests/font/Inter/static/Inter_18pt-Regular.ttf);
+}
+
+@font-face {
+    font-family: "futurak";
+    src: url(./assests/font/Inter/static/Inter_28pt-Light.ttf);
+}
+
+
+header{
+
+    width: 100%;
+    height: 92px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 14rem;
+}
+
+header .parent_2{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+}
+
+header .parent_2 a{
+
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+header .parent_2 .get{
+
+    width: 160px;
+    height: 50px;
+    font-size: 14px;
+    border-radius: 28px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+}
+
+header .parent_2 .order{
+
+    width: 160px;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 400;
+    border-style: none;
+    border-radius: 28px;
+    background-color: #ed1c24;
+    color: rgb(255, 255, 255);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+}
+
+header .parent_2 .order i{
+
+    width: 28px;
+    height: 28px;
+    font-size: 18px;
+    font-weight: 800;
+    color: #ed1c24;
+    border-radius: 28px;
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.franchise{
+
+    background-color: #0f0f0f;
+    padding: 80px 120px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.franchise .parent_1{
+
+    width: 100%;
+    padding: 0px 100px;
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.franchise .parent_1 h1{
+
+    font-family: 'futurak';
+    font-size: 52px;
+}
+
+.franchise .parent_1 h3{
+    
+    font-size: 52px;
+}
+
+.franchise .parent_1 P{
+    
+    font-size: 18px;
+    color: gray;
+}
+
+
+.franchise .parent_2{
+
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+.franchise .parent_2 .child_1{
+
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+.franchise .parent_2 .child_2{
+
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+}
